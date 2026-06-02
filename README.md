@@ -1,4 +1,4 @@
-# MS-Point: Multi-Modal Spectral Learning for Self-Supervised 3D Point Cloud Understanding
+# ✨ MS-Point: Multi-Modal Spectral Learning for Self-Supervised 3D Point Cloud Understanding
 
 <p align="center">
   <b>Hierarchical-Spectral Structured Cross-Modal Pretraining for Transferable 3D Point Cloud Representation Learning</b>
@@ -27,7 +27,7 @@
 
 ---
 
-## Overview
+## 😀 Overview
 
 <p align="center">
   <img src="pipeline.png" width="92%" alt="MS-Pointframework overview"/>
@@ -52,7 +52,7 @@ The codebase supports:
 
 > **Double-blind review note.** This README is written for an anonymous submission repository. Author names, final paper URLs, non-anonymous tracking services, and permanent checkpoint links should be added only when permitted by the venue policy.
 
-## Motivation
+## 🎈 Motivation
 
 Point cloud understanding is central to 3D vision, robotics, autonomous driving, and embodied perception. Self-supervised learning is particularly attractive for point clouds because dense annotations are expensive and difficult to obtain. Cross-modal learning further strengthens self-supervision: rendered images offer semantic information that can complement sparse and irregular 3D geometry.
 
@@ -85,7 +85,7 @@ The two branches are complementary. Therefore, MS-Point models multi-scale struc
 
 ---
 
-## Installation
+## 🍳 Installation
 
 ### Upstream-Compatible Environment
 
@@ -154,7 +154,7 @@ PY
 
 ---
 
-## Datasets
+## 🔨 Datasets
 
 ### Datasets Used in the Paper
 
