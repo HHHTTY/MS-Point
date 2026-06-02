@@ -29,6 +29,10 @@
 
 ## Overview
 
+<p align="center">
+  <img src="pipeline.png" width="92%" alt="MS-Pointframework overview"/>
+</p>
+
 MS-Point investigates a complementary question:
 
 > Can cross-modal supervision exploit the internal geometric-semantic hierarchy and spectral structure already present in point cloud backbones, rather than constraining only a single global embedding?
